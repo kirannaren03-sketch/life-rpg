@@ -1,0 +1,6 @@
+{
+  "name": "Life RPG – Gamified Productivity",
+  "description": "Level up your life with an RPG-inspired progression system. Complete real-world daily quests, earn XP, unlock achievements, and track lifetime stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
